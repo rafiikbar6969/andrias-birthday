@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+body {
+  font-family: rubik;
+  text-align: center;
+  background-color: antiquewhite;
+  color: pink;
+}
+img {
+  width: 350px;
+  height: 400px;
+}
+button {
+  position: absolute;
+  cursor: pointer;
+  left: 670px;
+  padding: 10px 30px;
+  transition: 0.5s;
+  margin-top: 50px;
+}
+a {
+  text-decoration: none;
+}
+.no {
+  margin-left: 100px;
+}

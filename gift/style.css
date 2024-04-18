@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  color: pink;
+  background-color: bisque;
+}
+.button {
+  margin-right: 50px;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin-left: 50px;
+}

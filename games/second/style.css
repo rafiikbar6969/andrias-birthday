@@ -1,0 +1,27 @@
+body {
+  margin: auto;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-color: antiquewhite;
+  background-size: cover;
+  color: pink;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+button {
+  position: absolute;
+  cursor: pointer;
+  padding: 10px 30px;
+  left: 677px;
+  transition: 0.5s;
+}
+
+.no {
+  margin-left: 100px;
+}
+img {
+  width: 500px;
+  height: 500px;
+}
